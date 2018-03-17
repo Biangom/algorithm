@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\김성식\documents\visual studio 2015\projects\baek\baek14501\main.cpp(28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김성식\documents\visual studio 2015\projects\baek\baek14501\main.cpp(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\김성식\documents\visual studio 2015\projects\baek\baek14501\main.cpp(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  baek14501.vcxproj -> C:\Users\김성식\documents\visual studio 2015\Projects\baek\Debug\baek14501.exe
+  baek14501.vcxproj -> C:\Users\김성식\documents\visual studio 2015\Projects\baek\Debug\baek14501.pdb (Full PDB)

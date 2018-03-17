@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (baek.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\김성식\documents\visual studio 2015\projects\baek\baek\main.cpp(163): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\김성식\documents\visual studio 2015\projects\baek\baek\main.cpp(176): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  baek.vcxproj -> C:\Users\김성식\documents\visual studio 2015\Projects\baek\Debug\baek7576.exe
+  baek.vcxproj -> C:\Users\김성식\documents\visual studio 2015\Projects\baek\Debug\baek7576.pdb (Full PDB)

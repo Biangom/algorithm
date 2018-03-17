@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\김성식\documents\visual studio 2015\projects\baek\kakaoprog_2_보행자천국_mine\main.cpp(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\김성식\documents\visual studio 2015\projects\baek\kakaoprog_2_보행자천국_mine\main.cpp(94): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\김성식\documents\visual studio 2015\projects\baek\kakaoprog_2_보행자천국_mine\main.cpp(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  kakaoprog_2_보행자천국_mine.vcxproj -> C:\Users\김성식\documents\visual studio 2015\Projects\baek\Debug\kakaoprog_2_보행자천국_mine.exe
+  kakaoprog_2_보행자천국_mine.vcxproj -> C:\Users\김성식\documents\visual studio 2015\Projects\baek\Debug\kakaoprog_2_보행자천국_mine.pdb (Full PDB)
