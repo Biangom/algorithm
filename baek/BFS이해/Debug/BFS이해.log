@@ -1,7 +1,7 @@
 ﻿  main.cpp
-c:\users\김성식\documents\visual studio 2015\projects\baek\bfs이해\main.cpp(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\git\algorithm\baek\bfs이해\main.cpp(85): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
-c:\users\김성식\documents\visual studio 2015\projects\baek\bfs이해\main.cpp(76): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\git\algorithm\baek\bfs이해\main.cpp(89): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
-  BFS이해.vcxproj -> C:\Users\김성식\Documents\Visual Studio 2015\Projects\baek\Debug\_BFS이해.exe
-  BFS이해.vcxproj -> C:\Users\김성식\Documents\Visual Studio 2015\Projects\baek\Debug\_BFS이해.pdb (Full PDB)
+  BFS이해.vcxproj -> C:\git\algorithm\baek\Debug\_BFS이해.exe
+  BFS이해.vcxproj -> C:\git\algorithm\baek\Debug\_BFS이해.pdb (Full PDB)
