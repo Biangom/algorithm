@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baek7576_토마토", "baek\baek.vcxproj", "{9731216D-D27A-46A2-BC6B-FDD036784DD0}"
 EndProject
@@ -58,6 +58,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_BFS이해_STL_QUE", "_BFS이해_STL_QUE\_BFS이해_STL_QUE.vcxproj", "{7328DABA-E512-4A5C-B174-A7A90D6B7CBF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baek2589_보물섬", "baek2589_보물섬\baek2589_보물섬.vcxproj", "{361DBC87-14B5-4E98-BF6A-95C99C66DA20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "baek11052_붕어빵 판매하기", "baek11052_붕어빵 판매하기\baek11052_붕어빵 판매하기.vcxproj", "{6A6A1335-FDDC-4976-B99A-394B1BD0F5AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,8 +293,19 @@ Global
 		{361DBC87-14B5-4E98-BF6A-95C99C66DA20}.Release|x64.Build.0 = Release|x64
 		{361DBC87-14B5-4E98-BF6A-95C99C66DA20}.Release|x86.ActiveCfg = Release|Win32
 		{361DBC87-14B5-4E98-BF6A-95C99C66DA20}.Release|x86.Build.0 = Release|Win32
+		{6A6A1335-FDDC-4976-B99A-394B1BD0F5AB}.Debug|x64.ActiveCfg = Debug|x64
+		{6A6A1335-FDDC-4976-B99A-394B1BD0F5AB}.Debug|x64.Build.0 = Debug|x64
+		{6A6A1335-FDDC-4976-B99A-394B1BD0F5AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A6A1335-FDDC-4976-B99A-394B1BD0F5AB}.Debug|x86.Build.0 = Debug|Win32
+		{6A6A1335-FDDC-4976-B99A-394B1BD0F5AB}.Release|x64.ActiveCfg = Release|x64
+		{6A6A1335-FDDC-4976-B99A-394B1BD0F5AB}.Release|x64.Build.0 = Release|x64
+		{6A6A1335-FDDC-4976-B99A-394B1BD0F5AB}.Release|x86.ActiveCfg = Release|Win32
+		{6A6A1335-FDDC-4976-B99A-394B1BD0F5AB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB66982-1287-47A0-9091-A12FB070D532}
 	EndGlobalSection
 EndGlobal

@@ -95,7 +95,7 @@ int main(void)
 	start.r = 0;
 	start.c = 0;
 	start.val = 0;
-	cin >> input;
+	cin >> input;// sdf
 
 	for (int i = 0; i < input; i++) {
 		for (int j = 0; j < input; j++) {
